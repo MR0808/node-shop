@@ -12,7 +12,7 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
-    "@dotenvx/dotenvx": "^0.39.0",
+    "@dotenvx/dotenvx": "^0.44.1",
     "nodemon": "^3.1.0"
   },
   "dependencies": {
